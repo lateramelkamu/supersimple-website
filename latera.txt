@@ -1,0 +1,39 @@
+<html>
+<head><create</head>
+<h1 style="background-color:7777;">Registration form<form>
+  
+<p style="background-color:Tomato;">subcity...</p>
+<body>
+<img src="image/A.jpg" alt="A"style="width:128px;height:128px><br>
+  <form><br>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br>
+‪
+
+<p> SEX</P>
+<form>
+  <input type="radio" id="html" name="fav_language" value="MALE">
+  <label for="html">male</label>
+  <input type="radio" id="css" name="fav_language" value="FEMALE">
+  <label for="female">female</label><br>
+ 
+</form>
+<form>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> E-mail</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> Phone number</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> Country</label></br>
+<input type="submit" value="Submit">
+</form>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X7DYx9YnOLs?si=_EKjOGQKPRG1mDwy" title="YouTube video 
+player" frameborder="0" allow="accelerometer; autoplay; 
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></br>
+<p> tankyou for woching</p>
+</form>
+</table>
+</body>
+</html>
